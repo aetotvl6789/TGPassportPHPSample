@@ -1,10 +1,10 @@
-# PHP Sample for Telegram Passport
+# Mẫu PHP cho Hộ chiếu Telegram
 
 1. Create bot
 2. Fill config.php
 3. Open {BASE_URL}/webhook.php?\_set\_webhook=1 once to set webhook
 4. Try {BASE_URL}/example.php
 
-More info about [Telegram Passport](https://core.telegram.org/passport)
-
-[Telegram Passport announcement](https://telegram.org/blog/passport)
+Thông tin thêm về [Hộ chiếu Telegram] (https://core.telegram.org/passport)
+?
+[Thông báo về Telegram hộ chiếu] ( https://telegram.org/blog/passport )
